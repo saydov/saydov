@@ -9,6 +9,6 @@
  
 [![Discord Presence](https://lanyard.cnrad.dev/api/894208701806817382)](https://discord.com/users/894208701806817382)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23FF2A&background=000000&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=435&lines=t.me/saydovvv)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23FF2A&background=000000&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=250&lines=t.me/saydovvv)](https://git.io/typing-svg)
 
 ![Profile views](https://gpvc.arturio.dev/notsaydov)
